@@ -29,3 +29,6 @@ Then, run the container with:
 ```
 $ pydockrun server.py
 ```
+
+
+Note: This is a joke! Don't actually write containers like this. Poking fun at PEP 723 (which is not a bad PEP).
